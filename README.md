@@ -9,6 +9,7 @@ Um conjunto de frequencias para ser gravada em seu rádio
 
 ## Como gravar:
 
+* Baixe o arquivo "Untitled.csv" no seu pc
 * Pluque seu rádio no pc com o cabo de prgramação
 * Abra o Chirp
 * Vá no menu "radio"
