@@ -2,6 +2,15 @@
 
 Um conjunto de frequencias para ser gravada em seu rádio
 
+## Conteudo:
+
+* Frequencias vhf maritimo
+* Frequencias HTs Baofeng
+* Frequencias HTs Talkabout
+* Frequencias HTs Intelbras
+* Frequencia Nacional de Chamada Brasileira
+* Frequencia Nacional de Chamada Americana
+
 ## Requisitos:
 
 * Cabo de programação de seu rádio
